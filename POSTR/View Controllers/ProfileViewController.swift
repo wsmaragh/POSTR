@@ -23,6 +23,7 @@ class ProfileViewController: UIViewController {
 	private var currentUser: POSTRUser! {
 		didSet { profileView.configureProfileView(user: currentUser) }
 	}
+
 	private var allUsers: [POSTRUser] = []
 //	private var postUser: POSTRUser!
 	private var currentUserPosts = [Post](){
@@ -82,7 +83,7 @@ class ProfileViewController: UIViewController {
 	}
 
 
-	//MARK: Helper Methods
+	//MARK: Helper Functions
 	private func configureNavBar() {
 		self.navigationItem.title = "Profile"
 		//TitleView (Center)

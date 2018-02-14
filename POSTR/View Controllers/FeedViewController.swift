@@ -44,7 +44,7 @@ class FeedViewController: UIViewController {
 		switchToList()
 		//Self-Sizing Tableview Height
 		feedView.postTableView.estimatedRowHeight = UIScreen.main.bounds.height * 0.1
-		feedView.postTableView.rowHeight = UITableViewAutomaticDimension
+//		feedView.postTableView.rowHeight = UITableViewAutomaticDimension
 	}
 
 
@@ -63,7 +63,7 @@ class FeedViewController: UIViewController {
 	}
 
 
-	//MARK: Methods
+	//MARK: Helper Functions
 	private func loadAllUsers() {
 		DBService.manager.loadAllUsers { (users) in
 			if let users = users {
@@ -71,9 +71,6 @@ class FeedViewController: UIViewController {
 				for user in users {
 					if self.currentAuthUser?.uid == user.userID { self.currentDBUser = user }
 				}
-//				for user in users.filter({ $0.userID == self.currentAuthUser?.uid }) {
-//					self.currentDBUser = user
-//				}
 			} else {print("error loading users")}
 		}
 	}
