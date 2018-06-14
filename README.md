@@ -4,7 +4,7 @@ Postr Version2 - continued working on the project to add new features and update
 <h1 align="center"> PostR2.0 </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="dAte" title="dAte" src="https://i.imgur.com/JiCtsAJ.png" width="450">
+    <img alt="dAte" title="dAte" src="https://i.imgur.com/JiCtsAJ.png" width="300">
   </a>
 </p>
 
@@ -24,6 +24,7 @@ Postr Version2 - continued working on the project to add new features and update
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -31,8 +32,6 @@ Postr Version2 - continued working on the project to add new features and update
 - [Feedback](#feedback)
 - [Contributors](#contributors)
 - [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -76,6 +75,9 @@ Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [
 If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
 
 ## Contributors
+<p align="center">
+   <img src = https://i.imgur.com/J5ctv0K.jpg" width=200>
+</p>
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
 
