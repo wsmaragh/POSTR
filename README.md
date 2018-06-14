@@ -24,7 +24,7 @@ Built with Swift, dAte is one of the most feature-rich dating apps.
 **Available for iOS**
 
 <p align="center">
-  <img src = "https://i.imgur.com/W3kRNTb.png" width=350>
+  <img src = "https://i.imgur.com/W3kRNTb.png" width=500>
 </p>
 
 
@@ -32,29 +32,16 @@ Built with Swift, dAte is one of the most feature-rich dating apps.
 
 A few of the things you can do with dAte:
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+* Match with users that share similiar food preferences
+* Send and receive chat messages with matches
+* Schedule a date with your match
+* Receive Push notifications for when another user likes you and matches with you
+* Receive Push notifications for schedule dates reminders
+* Peer-to-peer Video chat
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
+  <img src = "https://i.imgur.com/W3kRNTb.png" width=350>
 </p>
-
-<p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
-</p>
-
-## Feedback
-
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
-
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
 
 ## Contributors
 <p align="center">
