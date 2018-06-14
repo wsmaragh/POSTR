@@ -44,6 +44,7 @@ Built with Swift, dAte is one of the most feature-rich dating apps.
 
 <p align="center">
   <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+  <img src = "https://i.imgur.com/cTfBCeR.jpg" width=350>
 </p>
 
 ## Features
