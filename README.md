@@ -81,9 +81,13 @@ If there's anything you'd like to chat about, please feel free to join our [Gitt
    <img src = "https://i.imgur.com/udLbcpB.jpg" width=200>
 </p>
                                                 
+## Presentation at Venmo (in front 200-person crowd + judges)
+<p align="center">
+   <img src = "https://i.imgur.com/J5ctv0K.jpg" width=200>
+   <img src = "https://i.imgur.com/cTfBCeR.jpg" width=200>
+   <img src = "https://i.imgur.com/udLbcpB.jpg" width=200>
+</p>
 
-
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
 
 ## Build Process
 
