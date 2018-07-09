@@ -7,8 +7,9 @@
   </a>
 </p>
 
+
 <div align="center">
-  <a href="https://youtu.be/VJ78dwEXX9w"><img src="https://youtu.be/VJ78dwEXX9w" alt="IMAGE ALT TEXT"></a>
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 </div>
 
 <p align="center">
