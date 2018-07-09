@@ -13,14 +13,11 @@
 
 ## Introduction
 
-
-[![IMAGE ALT TEXT HERE](https://imgur.com/B7XYQI6)](https://www.youtube.com/watch?v=VJ78dwEXX9w)
-
-https://www.youtube.com/watch?v=VJ78dwEXX9w
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VJ78dwEXX9w
-" target="_blank"><img src="https://imgur.com/B7XYQI6" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="https://i.imgur.com/B7XYQI6.png" 
+alt="Watch Demo of Postr" width="240" height="180" border="10" /></a>
+
+![Watch Demo of Postr](https://i.imgur.com/B7XYQI6.png)](https://www.youtube.com/watch?v=VJ78dwEXX9w)
 
 ## Features
 
