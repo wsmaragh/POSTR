@@ -7,6 +7,10 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://youtu.be/VJ78dwEXX9w"><img src="https://youtu.be/VJ78dwEXX9w" alt="IMAGE ALT TEXT"></a>
+</div>
+
 <p align="center">
   Simple social application.
 </p>
