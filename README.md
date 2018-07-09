@@ -6,14 +6,13 @@
 ## Introduction
 
 <p align="center">
-  Demo Video of Postr
-</p>
-
-<p align="center">
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=VJ78dwEXX9w" target="_blank">
       <img src="https://i.imgur.com/B7XYQI6.png" alt="Watch Demo of Postr" width="600"  border="10" />
     </a>
 </p>
+<p align="center">Demo Video of Postr</p>
+
+
 ## Features
 * Browse post of other users
 * Make a post
