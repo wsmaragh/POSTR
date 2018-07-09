@@ -1,8 +1,4 @@
-# Postr
-
 <h1 align="center"> Postr </h1> <br>
-
-
 <p align="center">
   Simple social application.
 </p>
