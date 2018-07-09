@@ -3,8 +3,6 @@
   Simple social application.
 </p>
 
-## Introduction
-
 <p align="center">
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=VJ78dwEXX9w" target="_blank">
       <img src="https://i.imgur.com/B7XYQI6.png" alt="Watch Demo of Postr" width="600"  border="10" />
