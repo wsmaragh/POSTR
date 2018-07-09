@@ -9,6 +9,10 @@
 
 ## Introduction
 
+<p align="center">
+  Demo Video of Postr
+</p>
+
 <a align="center" href="http://www.youtube.com/watch?feature=player_embedded&v=VJ78dwEXX9w
 " target="_blank"><img src="https://i.imgur.com/B7XYQI6.png" 
 alt="Watch Demo of Postr" width="550" height="400" border="10" /></a>
