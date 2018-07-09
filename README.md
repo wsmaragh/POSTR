@@ -13,11 +13,10 @@
 
 ## Introduction
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=VJ78dwEXX9w
+<a align="center" href="http://www.youtube.com/watch?feature=player_embedded&v=VJ78dwEXX9w
 " target="_blank"><img src="https://i.imgur.com/B7XYQI6.png" 
-alt="Watch Demo of Postr" width="240" height="180" border="10" /></a>
+alt="Watch Demo of Postr" width="340" height="240" border="10" /></a>
 
-![Watch Demo of Postr](https://i.imgur.com/B7XYQI6.png)](https://www.youtube.com/watch?v=VJ78dwEXX9w)
 
 ## Features
 
