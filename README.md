@@ -9,10 +9,11 @@
   Demo Video of Postr
 </p>
 
-<a align="center" href="http://www.youtube.com/watch?feature=player_embedded&v=VJ78dwEXX9w
-" target="_blank"><img src="https://i.imgur.com/B7XYQI6.png" 
-alt="Watch Demo of Postr" width="550" height="400" border="10" /></a>
-
+<p align="center">
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=VJ78dwEXX9w" target="_blank">
+      <img src="https://i.imgur.com/B7XYQI6.png" alt="Watch Demo of Postr" width="600"  border="10" />
+    </a>
+</p>
 ## Features
 * Browse post of other users
 * Make a post
@@ -20,7 +21,7 @@ alt="Watch Demo of Postr" width="550" height="400" border="10" /></a>
 
 ## Designing & Planning
 <p align="center">
-  <img src = "https://i.imgur.com/NyVCRP6.jpg" width=200>
+  <img src = "https://i.imgur.com/NyVCRP6.jpg" width=500>
 </p>
 
 ## Built with 
@@ -29,7 +30,7 @@ alt="Watch Demo of Postr" width="550" height="400" border="10" /></a>
 
 ## Developed by:
 <p align="center">
-   <img src = "https://i.imgur.com/J5ctv0K.jpg" width=200>  
+   <img src = "https://i.imgur.com/J5ctv0K.jpg" width=250>  
 </p>
 - **Winston Maragh** | [LinkedIn](https://www.linkedin.com/in/wsmaragh/) |  [GitHub](https://github.com/wsmaragh)
 
