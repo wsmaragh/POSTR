@@ -13,16 +13,23 @@
 " target="_blank"><img src="https://i.imgur.com/B7XYQI6.png" 
 alt="Watch Demo of Postr" width="550" height="400" border="10" /></a>
 
-
 ## Features
+* Browse post of other users
+* Make a post
+* 
 
-* Under construction
-
-## Contributors
+## Designing & Planning
 <p align="center">
-   <img src = "https://i.imgur.com/J5ctv0K.jpg" width=200>
+  <img src = "https://i.imgur.com/NyVCRP6.jpg" width=200>
 </p>
-                                                
 
-## Build Process
+## Built with 
+- [Swift](https://developer.apple.com/swift/)
+- [Google Firebase](https://firebase.google.com/)
+
+## Developed by:
+<p align="center">
+   <img src = "https://i.imgur.com/J5ctv0K.jpg" width=200>  
+</p>
+- **Winston Maragh** | [LinkedIn](https://www.linkedin.com/in/wsmaragh/) |  [GitHub](https://github.com/wsmaragh)
 
